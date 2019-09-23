@@ -1,0 +1,4 @@
+To generate 10 objects, start manager.py shell and run the scripts by:
+exec(open('addGoodNewsletterSignup.py').read())
+or
+exec(open('addBadNewsletterSignup.py').read())
