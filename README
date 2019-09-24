@@ -1,4 +1,4 @@
-KEA Secure Software Handin 1
+KEA Software Security - Handin 1
 
 To generate 10 objects, start manager.py shell and run the scripts by:
 exec(open('addGoodNewsletterSignup.py').read())
