@@ -10,6 +10,3 @@ def signup(request):
 
     form = NewsletterSignupForm()
     return render(request, 'signup.html', {'form': form})
-
-def signup_detail(request, id):
-    return HttpResponse('<p>detail for id {}</p>'.format(id))
