@@ -30,7 +30,7 @@ distro-info==0.21
 Django==2.2.5
 django-crispy-forms==1.7.2
 dnspython==1.16.0
-ecdsa==0.13.2
+ecdsa==0.13.3
 EditorConfig==0.12.1
 email-validator==1.0.3
 entrypoints==0.3
