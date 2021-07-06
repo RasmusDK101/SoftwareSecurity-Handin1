@@ -52,7 +52,7 @@ icalendar==4.0.3
 idna==2.6
 IPy==0.83
 ipython-genutils==0.2.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jsbeautifier==1.6.4
 jsonschema==2.6.0
 jupyter-core==4.5.0
